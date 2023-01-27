@@ -1,0 +1,37 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+color: red;
+}
+
+h1{
+color: black;
+text-align: center;
+}
+p{
+font-size: 19px;
+color: black;
+   }
+   #light-layer{
+
+    width: 85%;
+    height: 700px;
+    background-color: rgba(0,0n, 0, 0.7);
+    margin:auto;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+.photo{
+width: 50%;
+margin-left: 5%;
+}
+img{
+
+    width: 400px;
+    height: 400px;
+    border: solid 4px white;
+
+}
